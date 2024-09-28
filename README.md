@@ -18,7 +18,7 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
   
 ## 🎓 Education and Project
 - |**Ph.D.**|Intelligent Systems|Nagoya University
-- |**M.Sc.**|Information and Communication Engineering|Nagoya University
+- |**M.Sc.**|<small>Information and Communication Engineering</small>|Nagoya University
 - |**B.Sc.**|Software Engineering| Shandong University
 
 ## 🔬 Research Experience
