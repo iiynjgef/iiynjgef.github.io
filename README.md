@@ -47,11 +47,7 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 ## 📞 Contact
 
 | **Name**   | Jingyi FENG | 
-| **Gmail**   | <a href="mailto:fuuseii1222@gmail.com">fuuseii1222@gmail.com</a> | 
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">Visit Page</a> | 
-<!--
-iiynjgef/iiynjgef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
-page reference: https://github.com/Allan-gitrepos/My_resume
--->
+| **Gmail**   | <a href="mailto:fuuseii1222@gmail.com">fuuseii1222@gmail.com</a> |
+
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">Visit Page</a> | 
