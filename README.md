@@ -18,9 +18,9 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 -->
   
 ## 🎓 Education and Project
-- **Ph.D.** | Intelligent Systems | Nagoya University, Japan | _2022.4 -_
-- **M.Sc.** | Information and Communication Engineering | Nagoya University, Japan | _2020.4 - 2022.3_
-- **B.Sc.** | Software Engineering | Shandong University, China | 
+**Ph.D.** | Intelligent Systems | Nagoya University, Japan | _2022.4 -_
+**M.Sc.** | Information and Communication Engineering | Nagoya University, Japan | _2020.4 - 2022.3_
+**B.Sc.** | Software Engineering | Shandong University, China | 
 
 ## 🔬 Research Experience
 **Ph.D. research @Nagoya Univ. _2022 -_**
