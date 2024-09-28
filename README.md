@@ -48,7 +48,4 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 超学際移動イノベーション人材養成学位プログラム</a>, _2020 - 2025.3_
 
 ## 📞 Contact
-
-**📧Gmail** | <a href="mailto:fuuseii1222@gmail.com" target="_blank">fuuseii1222@gmail.com</a> |
-
-**👔LinkedIn** | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">JINGYI FENG</a> | 
+<a href="mailto:fuuseii1222@gmail.com" target="_blank">**📧Gmail**: fuuseii1222@gmail.com</a> | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">**👔LinkedIn**: JINGYI FENG</a> | 
