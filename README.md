@@ -25,9 +25,9 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
   |**B.Sc.**|Software Engineering|Shandong University
 
 ## 🔬 Research Experience
-- **Ph.D. research @Nagoya Univ. _2022 -_**
-  - My Ph.D. work focused on training **robust speech generation models on low-quality data**.
-  - This research aims to alleviate the strong dependence of speech generation models on high-quality data for more cost-effective training.
+**Ph.D. research @Nagoya Univ. _2022 -_**
+- My Ph.D. work focused on training **robust speech generation models on low-quality data**.
+- This research aims to alleviate the strong dependence of speech generation models on high-quality data for more cost-effective training.
 
 <!--
 **M.Sc. research @Nagoya Univ. _2020.4 - 2022.3_**
