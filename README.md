@@ -17,8 +17,8 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 -->
   
 ## 🎓 Education and Project
-- |**Ph.D.**|Informatics|Nagoya University
-- |**M.Sc.**|Engineering|Nagoya University
+- |**Ph.D.**|<a herf="https://www.i.nagoya-u.ac.jp/en/gs/is/">Informatics</a>|Nagoya University
+- |**M.Sc.**|<a herf="https://www.nuee.nagoya-u.ac.jp/communications/index.html">Engineering</a>|Nagoya University
 - |**B.Sc.**|Software Engineering|Shandong University
 
 ## 🔬 Research Experience
