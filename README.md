@@ -2,7 +2,9 @@
 ### Ph.D. Student, <a href="https://www.toda.is.i.nagoya-u.ac.jp/">Toda Lab.</a>, Nagoya University
 
 #### About: 
-Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
+Ph.D. in Speech Processing, Speech Generation. 
+Interested in a research or industry role involving the Generation Model, LLM, Robust Generation, and AI in Health.
+Besides research, I enjoy hiking, scuba diving, and other outdoor activities.
 
 <!-- #### Publication Statistics:
 Cumulative Impact Factor: **34.171**
@@ -42,6 +44,6 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 
 ## 📞 Contact
 
-**📧Gmail**   | <a href="mailto:fuuseii1222@gmail.com">fuuseii1222@gmail.com</a> |
+**📧Gmail**   | <a href="mailto:fuuseii1222@gmail.com" target="_blank">fuuseii1222@gmail.com</a> |
 
 **👔LinkedIn**| <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">JINGYI FENG</a> | 
