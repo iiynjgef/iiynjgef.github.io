@@ -23,7 +23,6 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 ## 🔬 Research Experience
 **Ph.D. research @Nagoya Univ. (_2022 - _)**
 - 
-
 **M.Sc. research @Nagoya Univ.**
 - 
 
@@ -35,11 +34,11 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 2. J. Feng, T. Yoshikawa, T. Toda, **Interpretable control for emotional text-to-speech system toward development of sympathetic educational-support robots**, Proc. APSIPA ASC, pp. 342-346, Chiang Mai, Thailand, Nov. 2022.
 3. J. Feng, T. Yoshikawa, T. Toda, **Interpretable emotional control for text-to-speech system toward development of sympathetic educational-support robots**, 音講論, 3-8-3, pp. 1189-1190, Sep. 2022.
 
-## 🎤 Workshop and Conferences
-- Attended the conference ASJ 2022 Autumn at Hokkaido, Japan, Sep. 2022.
-- Attended the international conference APSIPA 2022 at Chiang Mai, Thailand, Nov. 2022.
-- Attended the international conference InterSpeech 2024 at Kos Island, Greece, Sep. 2024.
+## 🎤 Honors and Activity
 - Attended the 2024 APSIPA China-Japan Joint Symposium on Speech and Language Processing at Tianjin, China, Sep. 2024.
+- Received the research fellowship from <a herf="https://dec.nagoya-u.ac.jp/spring_information/" target="_blank">東海国立大学機構メイク・ニュー・スタンダード次世代研究事業</a>, _2022.4 - 2025.3_.
+- Selected as a participant in the <a herf="https://www.tmi.mirai.nagoya-u.ac.jp/" target="_blank">イフスタイル革命のための
+超学際移動イノベーション人材養成学位プログラム</a>, _2020 - 2025.3_
 
 ## 📞 Contact
 
