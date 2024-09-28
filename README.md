@@ -48,4 +48,4 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 
 
 
-<a href="mailto:fuuseii1222@gmail.com" target="_blank">**📧Gmail**: fuuseii1222@gmail.com</a> | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">**👔LinkedIn**: JINGYI FENG</a>
+<!--<a href="mailto:fuuseii1222@gmail.com" target="_blank">**📧Gmail**: fuuseii1222@gmail.com</a> | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">**👔LinkedIn**: JINGYI FENG</a>-->
