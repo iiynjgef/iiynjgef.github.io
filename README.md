@@ -10,17 +10,17 @@ Besides research, I enjoy hiking, scuba diving, and other outdoor activities.
 Cumulative Impact Factor: **34.171**
 
 Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a> 
--->
 
 #### Technical Skills:
 - Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
 - Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
+-->
   
 ## 🎓 Education and Project
-- **Ph.D.**, Intelligent Systems | Nagoya University, Japan (_2022.4 - _)
-- **M.Sc.**, Information and Communication Engineering | Nagoya University, Japan	(_2020.4 - 2022.3_)		
-- **B.Sc.**, Software Engineering | Shandong University, China
+- **Ph.D.** Intelligent Systems | Nagoya University, Japan | _2022.4 -_
+- **M.Sc.** Information and Communication Engineering | Nagoya University, Japan | _2020.4 - 2022.3_
+- **B.Sc.** Software Engineering | Shandong University, China | 
 
 ## 🔬 Research Experience
 **Ph.D. research @Nagoya Univ. (_2022 - _)**
@@ -28,8 +28,10 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 **M.Sc. research @Nagoya Univ.**
 - 
 
+<!--
 ## ✍️ Articles & Blogs
 - <a href="" target="_blank"> Articles</a>
+-->
 
 ## 📜 Publications
 1. J. Feng, Y. Yasuda, T. Toda, **Exploring the robustness of text-to-speech synthesis based on diffusion probabilistic models to heavily noisy transcriptions**, Proc. INTERSPEECH, pp. 4408-4412, Kos Island, Greece, Sep. 2024.
@@ -44,6 +46,6 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 
 ## 📞 Contact
 
-**📧Gmail**   | <a href="mailto:fuuseii1222@gmail.com" target="_blank">fuuseii1222@gmail.com</a> |
+**📧Gmail** | <a href="mailto:fuuseii1222@gmail.com" target="_blank">fuuseii1222@gmail.com</a> |
 
-**👔LinkedIn**| <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">JINGYI FENG</a> | 
+**👔LinkedIn** | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">JINGYI FENG</a> | 
