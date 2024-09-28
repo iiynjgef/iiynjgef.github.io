@@ -16,7 +16,7 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 - Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
   
 ## 🎓 Education
-- **Ph.D.**, Intelligent Systems | Nagoya University, Japan | (2022.4 - )		  		
+- **Ph.D.**, Intelligent Systems | Nagoya University, Japan (2022.4 - )			
 - **M.Sc.**, Information and Communication Engineering | Nagoya University, Japan		        		
 - **B.Sc.**, Software Engineering | Shandong University, China
 
@@ -36,18 +36,16 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 - Attended the international conference on <a href="https://twitter.com/GenebankICRISAT/status/1158297753371308032" target="_blank">"Neglected and Underutilized Crop Species for Food, Nutrition, Energy and Environment"</a> at NIPGR, New Delhi. Awarded a travel grant in recognition of contribution. 
 
 ## ✍️ Articles & Blogs
-- <a href="https://medium.com/@victorallan" target="_blank">Medium Articles</a>
+- <a href="" target="_blank"> Articles</a>
 
 ## 📜 Publications
 
-1. Allan Victor, Mani Vetriventhan, Ramachandran Senthil, S. Geetha, Santosh Deshpande, Abhishek Rathore, Vinod Kumar, Prabhat Singh, Surender Reddymalla, and Vânia CR Azevedo. **"Genome-wide DArTSeq genotyping and phenotypic based assessment of within and among accessions diversity and effective sample size in the diverse sorghum, pearl millet, and pigeonpea landraces."**_Frontiers in Plant Science_ 11 (2020): 587426. (DOI: <a href="https://doi.org/10.3389/fpls.2020.587426" target="_blank">https://doi.org/10.3389/fpls.2020.587426</a>)
-2. Allan, V. (2023) **‘PB-Perfect: A Comprehensive R-Based Tool for Plant Breeding Data Analysis’**, PB - Perfect. Available at: <a href="https://allanbiotools.shinyapps.io/pbperfect/" target="_blank">https://allanbiotools.shinyapps.io/pbperfect/</a>.
+1. J. Feng, Y. Yasuda, T. Toda, **Exploring the robustness of text-to-speech synthesis based on diffusion probabilistic models to heavily noisy transcriptions**, Proc. INTERSPEECH, pp. 4408-4412, Kos Island, Greece, Sep. 2024.
+2. J. Feng, T. Yoshikawa, T. Toda, **Interpretable control for emotional text-to-speech system toward development of sympathetic educational-support robots**, Proc. APSIPA ASC, pp. 342-346, Chiang Mai, Thailand, Nov. 2022.
+3. J. Feng, T. Yoshikawa, T. Toda, **Interpretable emotional control for text-to-speech system toward development of sympathetic educational-support robots**, 音講論, 3-8-3, pp. 1189-1190, Sep. 2022.
 
 
 ## 📞 Contact
+**📧Gmail**   | <a href="mailto:fuuseii1222@gmail.com">fuuseii1222@gmail.com</a> |
 
-| **Name**   | Jingyi FENG | 
-
-| **Gmail**   | <a href="mailto:fuuseii1222@gmail.com">fuuseii1222@gmail.com</a> |
-
-| **LinkedIn**   | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">Visit Page</a> | 
+**👔LinkedIn**| <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">JINGYI FENG</a> | 
