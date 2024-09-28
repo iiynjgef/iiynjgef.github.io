@@ -22,7 +22,7 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 
 ## 🔬 Research Experience
 - **Ph.D. research @Nagoya Univ. _2022 -_**
-  - My Ph.D. work focused on training robust speech generation models on low-quality data.
+  - My Ph.D. work focused on training **robust speech generation models on low-quality data**.
   - This research aims to alleviate the strong dependence of speech generation models on high-quality data for more cost-effective training.
 
 <!--
@@ -46,5 +46,6 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 - Selected as a participant in the <a herf="https://www.tmi.mirai.nagoya-u.ac.jp/" target="_blank">イフスタイル革命のための
 超学際移動イノベーション人材養成学位プログラム</a>, _2020 - 2025.3_
 
-## 
+
+
 <a href="mailto:fuuseii1222@gmail.com" target="_blank">**📧Gmail**: fuuseii1222@gmail.com</a> | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">**👔LinkedIn**: JINGYI FENG</a>
