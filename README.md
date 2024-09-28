@@ -22,7 +22,7 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 
   |**M.Sc.**|<a herf="https://www.nuee.nagoya-u.ac.jp/communications/index.html">Engineering</a>|Nagoya University
 
-  |**B.Sc.**|Software Engineering|Shandong University
+  |**B.Sc.**|<small>Software Engineering</small>|Shandong University
 
 ## 🔬 Research Experience
 **Ph.D. research @Nagoya Univ. _2022 -_**
