@@ -19,14 +19,14 @@ website: https://iiynjgef.github.io/
 darkmode: never
 
 # Social links
-# twitter_username: jekyllrb
 github_username:  iiynjgef
+linkedin_username: jingyi-feng-59a9a8242
+# twitter_username: jekyllrb
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: jingyi-feng-59a9a8242
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -116,8 +116,8 @@ footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
 
 sass:
   sass_dir: _sass
