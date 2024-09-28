@@ -1,7 +1,5 @@
 # AI Researcher & Speech Processing
 ### Ph.D. Student, <a href="https://www.toda.is.i.nagoya-u.ac.jp/">Toda Lab.</a>, Nagoya University
-
-#### About: 
 Ph.D. in Speech Processing, Speech Generation. 
 Interested in a research or industry role involving the Generation Model, LLM, Robust Generation, and AI in Health.
 Besides research, I enjoy hiking, scuba diving, and other outdoor activities.
