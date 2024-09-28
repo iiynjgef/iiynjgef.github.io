@@ -4,11 +4,11 @@
 #### About: 
 Ph.D. in Plant Breeding and Genetics with 6 years of research experience in genetics, genomics, and data analysis of crop plants. Skilled in experimental design, statistical analysis, handling large genomic data and development and deployment of R/Shiny packages for plant breeding applications. Interested in a research or industry role involving genetics, plant breeding, bioinformatics, or Artificial Intelligence for plant breeding. 
 
-<!--- #### Publication Statistics:
+<!-- #### Publication Statistics:
 Cumulative Impact Factor: **34.171**
 
 Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a> 
---->
+-->
 
 #### Technical Skills:
 - Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
@@ -49,9 +49,9 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 | **Name**   | Jingyi FENG | 
 | **Gmail**   | <a href="mailto:fuuseii1222@gmail.com">fuuseii1222@gmail.com</a> | 
 | **LinkedIn**   | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">Visit Page</a> | 
-<!---
+<!--
 iiynjgef/iiynjgef is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
 page reference: https://github.com/Allan-gitrepos/My_resume
---->
+-->
