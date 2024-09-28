@@ -12,21 +12,24 @@ Cumulative Impact Factor: **34.171**
 Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm0cAAAAJ&hl=en" target="_blank">Google Scholar</a> 
 
 #### Technical Skills:
-- Programming Languages: _Proficient in R, Python, Linux command line; experience with Shiny, Google Colab._
+- Programming Languages: _Proficient in R, Python, and Linux command line; experience with Shiny, Google Colab._
 - Phenomics and Genomics: _Expertise in molecular breeding techniques, NGS data analysis, QTL/GWAS, genomic selection, designing field trials, managing phenotyping pipelines, and analyzing high-throughput phenotypic and genotypic data._
-- Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
+- Data Science: _Multivariate analysis, machine learning, large-scale genomic data analysis, and visualization._
 -->
   
 ## 🎓 Education and Project
-- **Ph.D.** Intelligent Systems | Nagoya University, Japan | _2022.4 -_
-- **M.Sc.** Information and Communication Engineering | Nagoya University, Japan | _2020.4 - 2022.3_
-- **B.Sc.** Software Engineering | Shandong University, China | 
+- **Ph.D.** | Intelligent Systems | Nagoya University, Japan | _2022.4 -_
+- **M.Sc.** | Information and Communication Engineering | Nagoya University, Japan | _2020.4 - 2022.3_
+- **B.Sc.** | Software Engineering | Shandong University, China | 
 
 ## 🔬 Research Experience
-**Ph.D. research @Nagoya Univ. (_2022 - _)**
+**Ph.D. research @Nagoya Univ. _2022 -_**
+- My Ph.D. work focused on training robust speech generation models on low-quality data.
+- This research aims to alleviate the strong dependence of speech generation models on high-quality data for more cost-effective training.
+<!--
+**M.Sc. research @Nagoya Univ. _2020.4 - 2022.3_**
 - 
-**M.Sc. research @Nagoya Univ.**
-- 
+-->
 
 <!--
 ## ✍️ Articles & Blogs
