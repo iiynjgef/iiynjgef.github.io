@@ -16,9 +16,9 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 - Data Science: _Multivariate analysis, machine learning, large scale genomic data analysis and visualization._
   
 ## 🎓 Education
-- **Ph.D.**, Genetics and Plant Breeding | <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_FEB 2021 - Thesis submitted on 31st OCT 2023_)		  		
-- **M.Sc.**, Genetics and Plant Breeding	| <a href="https://tnau.ac.in/" target="_blank">TamilNadu Agricultural University</a> (_AUG 2017 - DEC 2020_)	 			        		
-- **B.Sc.**, Agriculture | <a href="https://cattheni.edu.in/" target="_blank">College of Agricultural Technology</a> (_JUL 2013 - JUL 2017_)
+- **Ph.D.**, Intelligent Systems | Nagoya University, Japan | (2022.4 - )		  		
+- **M.Sc.**, Information and Communication Engineering | Nagoya University, Japan		        		
+- **B.Sc.**, Software Engineering | Shandong University, China
 
 ## 🔬 Research Experience
 **Ph.D. research @<a href="https://tnau.ac.in/" target="_blank">TNAU</a> (_2021 - 2023_)**
