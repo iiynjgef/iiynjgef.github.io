@@ -18,14 +18,16 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 -->
   
 ## 🎓 Education and Project
-|**Ph.D.** | Intelligent Systems | Nagoya University, Japan | _2022.4 -_
-|**M.Sc.** | Information and Communication Engineering | Nagoya University, Japan | _2020.4 - 2022.3_
-|**B.Sc.** | Software Engineering | Shandong University, China | 
+|:--------|:----------------|:------------|------------:|
+|**Ph.D.**|Intelligent Systems|Nagoya University, Japan|_2022.4 -_|
+|**M.Sc.**|Information and Communication Engineering|Nagoya University, Japan|_2020.4 - 2022.3_|
+|**B.Sc.**|Software Engineering| Shandong University, China|__|
 
 ## 🔬 Research Experience
 **Ph.D. research @Nagoya Univ. _2022 -_**
 - My Ph.D. work focused on training robust speech generation models on low-quality data.
 - This research aims to alleviate the strong dependence of speech generation models on high-quality data for more cost-effective training.
+
 <!--
 **M.Sc. research @Nagoya Univ. _2020.4 - 2022.3_**
 - 
@@ -48,4 +50,5 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 超学際移動イノベーション人材養成学位プログラム</a>, _2020 - 2025.3_
 
 ## 📞 Contact
+|:--------:|:----------------:|
 |<a href="mailto:fuuseii1222@gmail.com" target="_blank">**📧Gmail**: fuuseii1222@gmail.com</a> | <a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">**👔LinkedIn**: JINGYI FENG</a> | 
