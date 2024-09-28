@@ -12,7 +12,8 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-# google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console  
+# google_site_verification: "nE-yBDoWCj5TcTXXNcRBPPiJZxpC6pw5dEdeRo6kTCk" # Verify ownership through Search Console
+google_analytics: G-KXT9Z048H4
 
 email: feng.jingyi@g.sp.m.is.nagoya-u.ac.jp # Allow visitors to contact you
 
