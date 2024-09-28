@@ -19,7 +19,7 @@
 <!--         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
 
         {% if site.logo %}
-          <p align="center"><img src="{{site.logo | relative_url}}" alt="Logo" style="width: 100%;" /></p>
+          <p align="center"><img src="{{site.logo | relative_url}}" alt="Logo" style="width: 80%;" /></p>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -35,8 +35,6 @@
 
         <p class="view"><a href="mailto:fuuseii1222@gmail.com" target="_blank">📧fuuseii1222@gmail.com</a></p>
         <p class="view"><a href="https://www.linkedin.com/in/jingyi-feng-59a9a8242/" target="_blank">👔LinkedIn</a></p>
-
-        <img src="{{site.code | relative_url}}" alt="code" style="width: 40%;" />
         
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -52,6 +50,7 @@
       
       </section>
       <footer>
+        <img src="{{site.code | relative_url}}" alt="code" style="width: 40%;" />
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
