@@ -30,7 +30,9 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 - This research aims to alleviate the strong dependence of speech generation models on high-quality data for more cost-effective training.
 
 **Research Internship @Sony R&D _2024.2 - 2024.3_**
+
 **M.Sc. @Nagoya Univ. _2020.4 - 2022.3_**
+
 <!--
 **M.Sc. research @Nagoya Univ. _2020.4 - 2022.3_**
 - 
