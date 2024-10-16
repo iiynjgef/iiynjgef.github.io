@@ -27,7 +27,7 @@ Total Citations: **39** <a href="https://scholar.google.com/citations?user=KnuQm
 ## 🔬 Research Experience
 🎓**Ph.D. @Nagoya Univ. _2022.4 -_**
 - My Ph.D. work focused on training **robust speech generation models on low-quality data**.
-- This research aims to alleviate the strong dependence of speech generation models on high-quality data for more cost-effective training.
+<!-- - This research aims to alleviate the strong dependence of speech generation models on high-quality data for more cost-effective training. -->
 
 🧑🏻‍💻**Research Internship @Sony R&D _2024.2 - 2024.3_**
 - Multilingual speech synthesis
