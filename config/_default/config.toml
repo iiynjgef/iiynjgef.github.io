@@ -1,0 +1,24 @@
+baseURL = "https://iiynjgef.github.io/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+title = "J. Feng"
+theme = "hugo-theme-stack"
+
+hasCJKLanguage = true
+
+[pagination]
+  pagerSize = 10
+
+[permalinks]
+  posts = "/posts/:slug/"
+  page = "/:slug/"
+
+[languages]
+  [languages.zh]
+    languageName = "中文"
+    weight = 1
+    title = "J. Feng"
+  [languages.en]
+    languageName = "English"
+    weight = 2
+    title = "J. Feng"
